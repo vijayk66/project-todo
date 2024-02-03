@@ -165,7 +165,7 @@ function Home() {
 
 						{/* Todo Input */}
 						<div className="row">
-							<div className="col-12  col-lg-6 mx-auto text-center bg-warning-subtle py-3 py-lg-5 rounded-3">
+							<div className="col-12  col-lg-6 mx-auto text-center bg-warning-subtle py-3 py-lg-4 rounded-3">
 								<div className="d-flex gap-3 flex-wrap justify-content-center">
 									<input type="search"
 										value={inputTodo}
